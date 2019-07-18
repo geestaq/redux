@@ -1,0 +1,21 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "actions.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geestaq/redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geestaq/redux/issues"
+  },
+  "homepage": "https://github.com/geestaq/redux#readme",
+  "dependencies": {
+    "uuid": "^3.3.2",
+  },
+}
